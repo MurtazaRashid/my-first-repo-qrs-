@@ -1,1 +1,2 @@
 this is my first file in repository
+it class is very thoughtful class
